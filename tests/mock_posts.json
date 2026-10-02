@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mock-001",
+    "author": "Example Person",
+    "url": "https://www.linkedin.com/posts/example-ai-local-deployment",
+    "text": "We just finished migrating our on-prem inference stack to a fully local AI deployment. Latency dropped 40% and data never leaves our infrastructure. Happy to share the architecture diagram if anyone is interested in local AI deployment patterns.",
+    "source": "mock"
+  },
+  {
+    "id": "mock-002",
+    "author": "Another Person",
+    "url": "https://www.linkedin.com/posts/example-cloud-cost",
+    "text": "Cloud bill review season. Three things that cut our Kubernetes spend by 30%: right-sizing nodes, spot instances for batch jobs, and killing zombie dev environments weekly. Details in comments.",
+    "source": "mock"
+  },
+  {
+    "id": "mock-003",
+    "author": "Random Poster",
+    "url": "https://www.linkedin.com/posts/example-motivation",
+    "text": "Great post opportunity! Monday motivation: rise and grind, coffee is life. Let's crush this week!!!",
+    "source": "mock"
+  }
+]

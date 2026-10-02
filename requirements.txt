@@ -1,0 +1,5 @@
+python-dotenv>=1.0.1
+requests>=2.32.0
+psutil>=6.0.0
+pytest>=8.0.0
+plyer>=2.1.0

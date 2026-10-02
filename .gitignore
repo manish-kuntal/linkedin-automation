@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.python-version
+logs/
+state/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+manual_posts.json
